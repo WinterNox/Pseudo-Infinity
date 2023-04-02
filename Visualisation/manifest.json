@@ -1,0 +1,7 @@
+{
+    "name":"Visualisation",
+    "descriptions":[""],
+    "information":"Visualisation for the technique.",
+    "entry_point":"level.lua",
+    "has_score_leaderboard":false
+  }
