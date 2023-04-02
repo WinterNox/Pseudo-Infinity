@@ -6,6 +6,7 @@ Feel free to use this for your own level. You need to have your entity spawn coo
 Pros:
 - It's infinite.
 - It's smooth.
+
 Cons:
 - It flickers at the transition moment.
 - Things like the trail of the player reset at the transition.
